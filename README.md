@@ -1,7 +1,7 @@
 # estruturas_organizacionais
 Dados de estruturas hierárquica do Poder Executivo da República Federativa do Brasil
 
-Nese repositório serão disponibilizados serão disponibilizados arquivos CSV,(Separador de colunas: ponto e virgula; delimitador de texto : aspas duplas; charset: Unicode UTF-8) atualizados mensalmente com dados das estruturas organizacionais.
+Neste repositório serão disponibilizados serão disponibilizados arquivos CSV,(Separador de colunas: ponto e virgula; delimitador de texto : aspas duplas; charset: Unicode UTF-8) atualizados mensalmente com dados das estruturas organizacionais.
 
 O arquivo *unidade-hierarquia-competencias.csv* possui a seguinte estrutura:
 - nivel: nível hierárquico, sendo 1 a Presidência da República com um número sequencia crescente conforme desce se na estutura hierarquica da unidade;
